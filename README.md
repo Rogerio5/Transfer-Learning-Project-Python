@@ -3,7 +3,7 @@
 
 # 🧠 Transfer Learning em Python — Classificação Carro vs Moto
 
-![Capa](results/grafico_acuracia.png)
+![Capa](resultados/grafico_acuracia.png)
 
 ---
 
