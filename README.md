@@ -66,11 +66,11 @@ Este projeto apresenta os resultados de classificação para duas classes: **Car
 
 ### 🔹 Matriz de Confusão
 
-![Matriz de Confusão](matriz_confusao.png)
+![Matriz de Confusão](resultados/matriz_confusao.png)
 
 ### 🔹 Métricas por Classe
 
-![Métricas por Classe](metricas_por_classe.png)
+![Métricas por Classe](resultados/metricas_por_classe.png)
 
 ---
 ✅ **Interpretação**: O modelo apresenta desempenho geral **bom**, com destaque para o recall da classe "Carro" e a precisão da classe "Moto". A acurácia total foi de **85%**, indicando uma boa capacidade de classificação.
